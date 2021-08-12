@@ -121,7 +121,12 @@ sections:
           ### Social Media
 
           Google, Facebook, TikTok, LinkedIn — what should you use, and how? And how do you know that it's actually working? Build a social media strategy like a pro.
-     
+      - content: |-
+          ### Seeing What Works
+
+          There is no shortage of analytics tools for marketing campaigns —
+          email platforms, data centers, campaign dashboards and app
+          attribution... How to choose the right tools that will work for you.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
